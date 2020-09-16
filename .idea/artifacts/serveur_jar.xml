@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="serveur:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/serveur_jar</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="serveur.jar">
+      <element id="module-output" name="serveur" />
+      <element id="extracted-dir" path="C:/laragon/postgresql-42.2.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
